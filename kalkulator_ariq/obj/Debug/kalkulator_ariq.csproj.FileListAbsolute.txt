@@ -1,0 +1,10 @@
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\bin\Debug\kalkulator_ariq.exe.config
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\bin\Debug\kalkulator_ariq.exe
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\bin\Debug\kalkulator_ariq.pdb
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\obj\Debug\kalkulator_ariq.csprojAssemblyReference.cache
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\obj\Debug\kalkulator_ariq.Form1.resources
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\obj\Debug\kalkulator_ariq.Properties.Resources.resources
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\obj\Debug\kalkulator_ariq.csproj.GenerateResource.cache
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\obj\Debug\kalkulator_ariq.csproj.CoreCompileInputs.cache
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\obj\Debug\kalkulator_ariq.exe
+E:\kalariq\kalkulator_ariq\kalkulator_ariq\obj\Debug\kalkulator_ariq.pdb
